@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Complaint Management System",
+  "description": "A multi-role web prototype for managing civic, consumer, or administrative complaints. The system features a legal AI agent to assist users (Complainers, Inspectors, Commissioners, Prosecutors) throughout the complaint lifecycle, from drafting to resolution.",
+  "requestFramePermissions": []
+}
